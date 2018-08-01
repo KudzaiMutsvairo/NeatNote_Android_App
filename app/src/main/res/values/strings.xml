@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NeatNote</string>
+    <string name="action_settings">Settings</string>
+    <string name="body">Body here</string>
+    <string name="title">Title here</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="at">at</string>
+    <string name="deleteAll">Delete All</string>
+    <array name="listItemOptions">
+        <item>Edit</item>
+        <item>Delete</item>
+    </array>
+</resources>
